@@ -1,4 +1,4 @@
-# streaming-insert-cloud-functions-to-bigquery
+# Data Engineering Project: Streaming Insert Cloud Functions to Bigquery
 Cloud Functions streaming insert to BigQuery (with Cloud Pub/Sub trigger). In this project, the function will make a REST API call to get a data and insert to BigQuery.
 
 ---
